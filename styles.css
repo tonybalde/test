@@ -21,3 +21,12 @@ h2{
     color: gold;
     padding: 10px;
 }
+
+hr{
+    width: 100%;
+}
+
+div {
+    height: 120px;
+    width: 300px;
+}
