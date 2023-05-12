@@ -3,3 +3,7 @@ here i make small changes
 to edit
 
 later
+
+More lines to edit
+
+And other stuff
