@@ -21,3 +21,8 @@ h2{
     color: gold;
     padding: 10px;
 }
+
+hr{
+    width: 100vw;
+    height: 10px;
+}
