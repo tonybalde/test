@@ -1,6 +1,7 @@
 * {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 18px;
+<<<<<<< HEAD
 }
 
 h1{
@@ -13,4 +14,6 @@ p{
     font-weight: 500;
     color: yellow;
     background-color: gray;
+=======
+>>>>>>> 6d409becd9b919b80f4375c07222db29868ba202
 }
