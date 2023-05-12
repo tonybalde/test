@@ -7,3 +7,10 @@ h1{
     font-size: 42px;
     color: red;
 }
+
+p{
+    font-size: 10px;
+    font-weight: 500;
+    color: yellow;
+    background-color: gray;
+}
