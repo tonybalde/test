@@ -12,6 +12,7 @@ Here's what I did today in the morning!
 7. 13-May-2023: I have to fix a computer's costumer
 8. 14-May-2023: More English
 9. 15-May-2023: More English
-10. 16-May-2023: More English
+10. 16-May-2023: More English and started German again!
+11. 
 
 
