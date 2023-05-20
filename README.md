@@ -16,5 +16,7 @@ Here's what I did today in the morning!
 11. 17-May-2023: Started to learn React in Open Bootcamp, Practice English and German
 12. 18-May-2023: More React, More German, More English
 13. 19-May-2023: React, English, German!
+14. 20-May-2023: German and English
+
 
 
