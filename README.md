@@ -17,6 +17,7 @@ Here's what I did today in the morning!
 12. 18-May-2023: More React, More German, More English
 13. 19-May-2023: React, English, German!
 14. 20-May-2023: German and English
+15. 21-May-2023: More German
 
 
 
