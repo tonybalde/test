@@ -18,6 +18,7 @@ Here's what I did today in the morning!
 13. 19-May-2023: React, English, German!
 14. 20-May-2023: German and English
 15. 21-May-2023: More German
+16. 22-May-2023: More German, and Started React in Full Stack Open
 
 
 
