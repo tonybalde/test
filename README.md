@@ -21,6 +21,7 @@ Here's what I did today in the morning!
 16. 22-May-2023: More German, and Started React in Full Stack Open
 17. 23-May-2023: More React with Full Stack Open, German and English!
 18. 25-May-2023: More German, starting React in FSO and German!
+19. 26-May-2023: First Commit!
 
 
 
