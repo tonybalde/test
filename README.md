@@ -1,7 +1,7 @@
 # Test
-## Just a Test Repo !
+## Just a Test Repo !!
+### One Commit a Day to keep green my activity feed 
 
-1-June-2023: More Arg Programa, Fix Computer and More German!
-
+2-June-2023: More REACT!
 
 
