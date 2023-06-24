@@ -2,6 +2,6 @@
 ## Just a Test Repo !!
 ### One Commit a Day to keep green my activity feed 
 
-23-June-2023: Second Commit!
+24-June-2023: First commit of the day!
 
 
