@@ -2,6 +2,6 @@
 ## Just a Test Repo !!
 ### One Commit a Day to keep green my activity feed 
 
-28-Jul: More Odin Project and CTD!!
+29-Jul: First Commit!
 
 
