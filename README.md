@@ -1,5 +1,5 @@
-# Test
-## Just a Test Repo !!
+# One Commit a Day Repo
+## Just a Test Repo and greenRepo!!
 ### One Commit a Day to keep green my activity feed 
 
-5-Sep: More Arg Prog and React Projec for ODIN!
+6-Sep: More React Projec for ODIN!!
