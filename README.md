@@ -1,5 +1,9 @@
 # One Commit a Day Repo
-## Just a Test Repo and greenRepo!!
-### One Commit a Day to keep green my activity feed 4
+## Make Repo Great Again!
+### From this: 
+![Alt text](./imgs/min.png)
+### To this:
+![Alt full](./imgs/full.jpg)
 
-14-Dec: Another Commit!!
+Last update: 15-Dec
+Text: Another Commit!!!
