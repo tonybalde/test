@@ -5,5 +5,5 @@
 ### To this:
 ![Alt full](./imgs/full.jpg)
 
-## Last update: 30-Dec-2023
-## Text: another commit!!!!
+## Last update: 31-Dec-2023
+## Text: Last day of the year!!
