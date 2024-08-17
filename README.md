@@ -6,4 +6,4 @@
 ![Alt full](./imgs/full.jpg)
 
 ## Last update: 16-Ago-2024
-## Text: Another Commit!!!!!!!!!!!!!!!!!!!
+## Text: Another Commit!!!!!!!!!!!!!!!!!!!!
