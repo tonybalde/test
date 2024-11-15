@@ -5,5 +5,5 @@
 ### To this:
 ![Alt full](./imgs/full.jpg)
 
-## Last update: 14-Nov-2024
-## Text: Another Commit!!!!!!!!!!!!!!!!!!!!!!!!
+## Last update: 15-Nov-2024
+## Text: Another Commit!!!!!!!!!!!!!!!!!!!!!!!!!!
